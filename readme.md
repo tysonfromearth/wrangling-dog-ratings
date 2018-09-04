@@ -1,4 +1,4 @@
-### Wrangling Dog Tweets
+# Wrangling Dog Tweets
 Wrangling Dog Tweets is a demonstration of data wrangling skills. A file was downloaded using the requests library and data was scraped from tweets using tweepy before being loaded into pandas dataframes. The dataframes were then assessed, cleaned, and analyzed to produce three insights about dog ratings from @dog_rates.
 
 ### Getting Started
@@ -19,4 +19,4 @@ If you would like to run through the notebook yourself using Anaconda*, then:
  5. Enter "jupyter notebook" on the command line
  6. Click wrangle_act.ipynb to access the notebook
 
-* Note: You will have to create your own API to scrape tweet data
+*Note: You will have to create your own API to scrape tweet data
